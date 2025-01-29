@@ -1,0 +1,43 @@
+h1{
+    font-family: "Sacramento", serif;
+    font-size: 70px !important;
+    font-weight: 400;
+    
+       
+}
+
+#nav-bar{
+    background-color:#fff9c4;
+    height: 15vh;
+}
+.tittle-{
+    background-color: chartreuse;
+    height: 50vh;
+   
+
+}
+h2{
+    text-align: center;
+    font-family: Sacramento;
+    font-weight: bolder;
+    font-size: 40px !important;
+    
+}
+.my-pic{
+    border-radius: 50%;
+    
+}
+#about{
+    background-color:orange;
+}
+.experience{
+    font-family:Sacramento ;
+    font-size: 100px !important;
+}
+.myexperience{
+    background-color: chocolate;
+}
+#works{
+    background-color: crimson;
+}
+  
